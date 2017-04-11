@@ -16,5 +16,5 @@
   <project path="android" name="MiCode/patchrom_android" />
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
-  <project path="angler" name="MiCode/patchrom_angler" />
+  <project path="angler" name="airwa1kin7/patchrom_angler" revision="mtc20l" />
 </manifest>
